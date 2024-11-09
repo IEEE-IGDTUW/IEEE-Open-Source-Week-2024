@@ -115,6 +115,9 @@ Replace your-username with your GitHub username and repository-name with the nam
 
 🔟 **Submit a Pull Request**: Navigate to the original repository and submit a pull request from your branch. Provide a clear description of your changes and any relevant details.
 
+<img width="843" alt="Screenshot 2024-11-09 at 10 40 10 AM" src="https://github.com/user-attachments/assets/9791af3d-2909-4054-a5b2-4baade629ae5">
+
+
 ---
 
 ### 💬 How to Handle Merge Conflicts
